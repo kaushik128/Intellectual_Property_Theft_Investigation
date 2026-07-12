@@ -109,23 +109,17 @@ The complete digital forensics investigation report is available in the reposito
 
 ## References
 
-## References
+1. Altheide, C., & Carvey, H. (2011). *Digital Forensics with Kali Linux*. Syngress.
 
-1] C. Altheide and H. Carvey, Digital Forensics with Kali Linux. Waltham, MA, USA: 
-Syngress, 2011. 
-[2] B. Carrier, File System Forensic Analysis. Boston, MA, USA: Addison-Wesley, 
-2005. 
-[3] E. Casey, Digital Evidence and Computer Crime: Forensic Science, Computers 
-and the Internet, 3rd ed. Waltham, MA, USA: Academic Press, 2011. 
-[4] K. Kent, S. Chevalier, T. Grance, and H. Dang, Guide to Integrating Forensic 
-Techniques into Incident Response, NIST Special Publication 800-86. Gaithersburg, 
-MD, USA: National Institute of Standards and Technology, 2006. doi: 
-10.6028/NIST.SP.800-86. 
-[5] B. Nelson, A. Phillips, and C. Steuart, Guide to Computer Forensics and 
-Investigations, 6th ed. Boston, MA, USA: Cengage Learning, 2019. 
-[6] Scientific Working Group on Digital Evidence, SWGDE Best Practices for 
-Computer Forensics, Version 3.1, 2018. [Online]. Available: 
-https://www.swgde.org/documents/published
+2. Carrier, B. (2005). *File System Forensic Analysis*. Addison-Wesley.
+
+3. Casey, E. (2011). *Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet* (3rd ed.). Academic Press.
+
+4. Kent, K., Chevalier, S., Grance, T., & Dang, H. (2006). *Guide to Integrating Forensic Techniques into Incident Response (NIST SP 800-86).* National Institute of Standards and Technology.
+
+5. Nelson, B., Phillips, A., & Steuart, C. (2019). *Guide to Computer Forensics and Investigations* (6th ed.). Cengage Learning.
+
+6. Scientific Working Group on Digital Evidence (SWGDE). (2018). *SWGDE Best Practices for Computer Forensics*.
 
 ---
 
